@@ -11,8 +11,8 @@ namespace liste_2026_lazar
         static void Main(string[] args)
         {
             Console.WriteLine("Pozrdav, profesore.");
-            Console.WriteLine("Navijam k'o lud, iz kopa grmi sve...");
-            Console.WriteLine({"Nasa pesma mozak razara..."})
+            Console.WriteLine("zdravo");
+            Console.WriteLine("cao");
         }
     }
 }
