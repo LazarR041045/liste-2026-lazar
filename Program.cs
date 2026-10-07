@@ -11,8 +11,8 @@ namespace liste_2026_lazar
         static void Main(string[] args)
         {
             Console.WriteLine("Pozrdav, profesore.");
-            Console.WriteLine("zdravo");
-            Console.WriteLine("cao");
+            Console.WriteLine("z");
+            Console.WriteLine("c");
         }
     }
 }
