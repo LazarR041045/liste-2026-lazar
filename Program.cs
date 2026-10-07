@@ -10,7 +10,8 @@ namespace liste_2026_lazar
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("pozrdav profesore");
+            Console.WriteLine("Pozrdav, profesore.");
+            Console.WriteLine("Navijam k'o lud, iz kopa grmi sve...");
         }
     }
 }
